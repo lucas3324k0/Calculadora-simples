@@ -1,4 +1,4 @@
-### Calculadora Simples
+<h2>Calculadora Simples</h2> 
 
 ### Descrição:
 Olá! Meu nome é Lucas santos, um entusiasta de tecnologia em ascensão e aspirante a desenvolvedor full stack, mergulhando de cabeça no mundo do desenvolvimento web. Este é um projeto simples, mas emocionante, onde explorei os fundamentos do desenvolvimento front-end.
